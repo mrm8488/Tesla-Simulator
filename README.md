@@ -24,7 +24,7 @@ Feel free to contribute. The development on such projects is more awesome in a c
 
 ### Running the examples
 ```bash
-npm install
+npm install --force
 npm start
 ```
 
