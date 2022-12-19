@@ -1,8 +1,8 @@
 <img src="./images/icon.png" alt="neurojs" height="125">
 
-## Coding Challenge - Due Date Dec 24 2022
+## Coding Challenge - Due Date Dec 24 2022 at 12 PM PST
 
-This is the code demonstrated in [this](https://youtu.be/NhSKCDIi5RE) video by Siraj Raval on Youtube. Modify the default neural network in some way on a custom track. If the car is still able to learn, congratulations you just built a Self Driving Car! Submit your GitHub repository in the Youtube comments section of the video. 
+This is the code demonstrated in [this](https://youtu.be/NhSKCDIi5RE) video by Siraj Raval on Youtube. Modify the default neural network in some way on a custom track. If the car is still able to learn, congratulations you just built a Self Driving Car! Submit your GitHub repository in the Youtube comments section of the video. The winner gets a shoutout in my next video!
 
 # neurojs
 
