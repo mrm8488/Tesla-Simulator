@@ -8,7 +8,11 @@ const config = {
         publicPath: '/build/'
     },
     mode: "development",
-    devtool: false
+    devtool: false,
+    devServer: {
+        host: '0.0.0.0',
+        port: 7860,
+    }
 }
 
 module.exports = config
